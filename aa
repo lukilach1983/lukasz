@@ -1,6 +1,1 @@
-echo "# lukasz" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/lukilach1983/lukasz.git
-git push -u origin master
+git clone https://github.com/auino/cookidump.git
